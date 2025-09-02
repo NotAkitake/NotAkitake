@@ -17,20 +17,20 @@ Got something in mind? [📫Email me](mailto:akitake@pm.me) or visit [🌐akitak
 
 ## 🧰 Tech Stack
 
-**Languages & Scripting**  
-![Skills](https://skillicons.dev/icons?i=python,dotnet,bash,powershell,md)
+**Programming & Scripting**  
+![Languages](https://skillicons.dev/icons?i=python,cs,js,ts,bash,powershell)
 
-**Tools & IDEs**  
-![Tools](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,ps,vscode,vscodium,visualstudio)
+**Markup & Styling**  
+![Markup](https://skillicons.dev/icons?i=html,css,md)
+
+**Frameworks & Libraries**  
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,dotnet)
+
+**Tools & Platforms**  
+![Tools](https://skillicons.dev/icons?i=neovim,git,github,githubactions,gitlab,docker)
 
 **Operating Systems**  
-![OS](https://skillicons.dev/icons?i=windows,linux,arch,debian)
-
-**Web Development**  
-![Web](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs)
-
-**Platforms & APIs**  
-![Other](https://skillicons.dev/icons?i=discord,bots)
+![OS](https://skillicons.dev/icons?i=windows,linux,arch,debian,emacs)
 
 ---
 

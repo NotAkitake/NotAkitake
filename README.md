@@ -18,7 +18,7 @@ Got something in mind? [📫Email me](mailto:akitake@pm.me) or visit [🌐akitak
 ## 🧰 Tech Stack
 
 **Programming & Scripting**  
-![Languages](https://skillicons.dev/icons?i=python,cs,js,ts,bash,powershell)
+![Languages](https://skillicons.dev/icons?i=python,cs,java,js,ts,bash,powershell)
 
 **Markup & Styling**  
 ![Markup](https://skillicons.dev/icons?i=html,css,md)
@@ -30,7 +30,7 @@ Got something in mind? [📫Email me](mailto:akitake@pm.me) or visit [🌐akitak
 ![Tools](https://skillicons.dev/icons?i=neovim,git,github,githubactions,gitlab,docker)
 
 **Operating Systems**  
-![OS](https://skillicons.dev/icons?i=windows,linux,arch,debian,emacs)
+![OS](https://skillicons.dev/icons?i=windows,linux,arch,debian)
 
 ---
 
